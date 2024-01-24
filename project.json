@@ -57,6 +57,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "SGate_Open_Exception_TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f96707ef-47b2-492a-98cc-37334c0596f7",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "SGate_Close_TestCase.xaml"
       }
     ],
     "saveToCloud": false

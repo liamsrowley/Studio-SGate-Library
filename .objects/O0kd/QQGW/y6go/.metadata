@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: SGate Sign Out",
+  "Type": "Screen",
+  "Id": "y6gojUAQBkCpZQDJ6L37Ww",
+  "Reference": "9n5MfZ2IdES92olVxBd6KQ/y6gojUAQBkCpZQDJ6L37Ww",
+  "ParentRef": "9n5MfZ2IdES92olVxBd6KQ/QQGWpTbQFUaMVSAGQ4YZAQ",
+  "Created": "2024-01-24T19:01:11.079752Z",
+  "Updated": "2024-01-24T19:01:11.079752Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

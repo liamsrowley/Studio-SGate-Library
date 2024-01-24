@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge: SGate Common Elements",
+  "Description": "This is used to hold elements that are common to all areas of the SGate website. These are mostly navigation items or the global header.",
+  "Type": "Screen",
+  "Id": "J1ouTLxtcE-5sEXi-JQhww",
+  "Reference": "9n5MfZ2IdES92olVxBd6KQ/J1ouTLxtcE-5sEXi-JQhww",
+  "ParentRef": "9n5MfZ2IdES92olVxBd6KQ/QQGWpTbQFUaMVSAGQ4YZAQ",
+  "Created": "2024-01-24T18:57:36.9447952Z",
+  "Updated": "2024-01-24T18:57:36.9447952Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
