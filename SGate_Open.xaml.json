@@ -1,0 +1,33 @@
+{
+  "DisplayName": null,
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_OrchestratorCredentialName",
+      "DisplayName": "in_OrchestratorCredentialName",
+      "Category": null,
+      "Tooltip": "Name of the Orchestrator credentials asset used to sign into the website.",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_OrchestratorFolderName",
+      "DisplayName": "in_OrchestratorFolderName",
+      "Category": null,
+      "Tooltip": "The name of the folder the Credential asset is stored in. If the automation is running from the same folder, this can be left blank.",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

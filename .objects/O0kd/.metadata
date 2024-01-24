@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge: WEB-EAM Next app",
+  "Type": "App",
+  "Id": "O0kdbELXBEigrcAZYLLO8Q",
+  "Reference": "9n5MfZ2IdES92olVxBd6KQ/O0kdbELXBEigrcAZYLLO8Q",
+  "Created": "2024-01-24T18:02:48.0602569Z",
+  "Updated": "2024-01-24T18:02:48.0602569Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
