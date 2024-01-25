@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Edge: BMW Retailer Report Portal",
+  "Type": "Screen",
+  "Id": "jfpkd8n1hUeUR5S3yhoGig",
+  "Reference": "9n5MfZ2IdES92olVxBd6KQ/jfpkd8n1hUeUR5S3yhoGig",
+  "ParentRef": "9n5MfZ2IdES92olVxBd6KQ/QQGWpTbQFUaMVSAGQ4YZAQ",
+  "Created": "2024-01-24T19:18:46.9525361Z",
+  "Updated": "2024-01-25T11:13:59.7554301Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

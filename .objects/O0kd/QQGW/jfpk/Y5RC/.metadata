@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Category Expander Icon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "Y5RCntGGkEqvIHNNxjveEg",
+  "Reference": "9n5MfZ2IdES92olVxBd6KQ/Y5RCntGGkEqvIHNNxjveEg",
+  "ParentRef": "9n5MfZ2IdES92olVxBd6KQ/jfpkd8n1hUeUR5S3yhoGig",
+  "Created": "2024-01-24T19:18:47.0086628Z",
+  "Updated": "2024-01-24T19:18:47.0086628Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

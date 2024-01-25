@@ -64,6 +64,20 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Tests\\SGate_Close_TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "dffb6808-06cd-40bf-abef-aa806920af8a",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\WaitForFile_TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "74ce7b4d-b727-4b8b-88d2-976304750171",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "SGate\\SGate_DownloadRetailerGroupReport_TestCase.xaml"
       }
     ],
     "saveToCloud": false

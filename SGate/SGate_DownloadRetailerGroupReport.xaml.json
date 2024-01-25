@@ -1,0 +1,45 @@
+{
+  "DisplayName": null,
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_CategoryName",
+      "DisplayName": "in_CategoryName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Sales-Performance Reports",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_FileName",
+      "DisplayName": "in_FileName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "ADHQFH - BMW Group Orders.xls",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_DownloadPath",
+      "DisplayName": "in_DownloadPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
