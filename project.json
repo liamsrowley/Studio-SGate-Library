@@ -76,7 +76,7 @@
         "testCaseId": "74ce7b4d-b727-4b8b-88d2-976304750171",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "SGate\\SGate_DownloadRetailerGroupReport_TestCase.xaml"
+        "fileName": "Tests\\SGate_DownloadRetailerGroupReport_TestCase.xaml"
       }
     ],
     "saveToCloud": false
